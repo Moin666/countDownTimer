@@ -5,7 +5,7 @@ body{
 }
 
 .openingTxt{
-    font-size: 40px;
+    font-size: 70px;
 }
 .mainDiv{
     background-color: #f6bd60;
@@ -15,19 +15,3 @@ body{
     box-sizing: border-box;
    
 }
-
-@media screen and (min-width: 480px) {
-    .mediaQueryPadding {
-      padding: 13px;
-    }
-  }
-
-  @media screen and (max-width: 480px) {
-    .mediaQueryPadding {
-      padding: 3px;
-    }
-    .heightHundred{
-        width: 100%!important;
-    }
-    
-  }
